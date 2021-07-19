@@ -17,7 +17,7 @@ We have:
 
 Anything where the last thing added to the structure is the first thing that will be removed. 
 
-![Stack of Rocks](/Picture/stone-tower-4519290_640.jpg)
+![Stack of Rocks](Final/Picture/stone-tower-4519290_640.jpg)
 
 ## Software Example
 One of the most common uses of a stack is the Undo function. Most programs, especially when editting is involved, will store each command on a stack. Take the photo of the rocks seen above. Below is a list of the actions I took to add the arrows, in reverse order to demonstrate the top-down order of a stack.
