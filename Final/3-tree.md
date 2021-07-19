@@ -9,7 +9,7 @@ Remember when in Alice in Wonderland where the Mad Hatter and the Hare asked Ali
 
 This, as you may assume from who said it, is utter madness. Computers are not smart, but they are obedient, so they will start from the beginning. Alice knew where her story started, but you know who didn't? Chunk from The Goonies. To make my point I will include the whole quote, but **feel free to skip ahead**.
 
-![Interrogation](Picture\goonies1.jpg)
+![Interrogation](https://github.com/NickCampbell91/CSE212FinalProject/blob/main/Final/Picture/goonies1.jpg)
 
     "Tell us everything,"
 
