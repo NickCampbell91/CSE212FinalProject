@@ -20,7 +20,7 @@ Here Chunk is your list and Francis is your program searching through it. It sta
 With a little extra effort we can create a data structure where with each step the remaining information to search through is reduced by half. We call this data structure a binary tree because the data is split into a series of branches.
 
 ## Vocabulary
-![Tree labels](Picture\1_PWJiwTxRdQy8A_Y0hAv5Eg.png)
+![Tree labels](https://github.com/NickCampbell91/CSE212FinalProject/blob/main/Final/Picture/1_PWJiwTxRdQy8A_Y0hAv5Eg.png)
 
 Name | Description
 ---- | -----------
@@ -45,7 +45,7 @@ Recursive functions are any function that calls on itself. Like the example just
 See below for an example of a recursive function in code.
 
 ## Software Example
-![Basic Tree](Picture\basic_tree.png)
+![Basic Tree](https://github.com/NickCampbell91/CSE212FinalProject/blob/main/Final/Picture/basic_tree.png)
 
 The picture above depicts a very simple binary tree with small integers. To demonstrate how your computer would search though a tree such as this, lets look for a number.
 
